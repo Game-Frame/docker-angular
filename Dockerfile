@@ -1,4 +1,4 @@
-FROM nginx:1.23.3-alpine
+FROM nginx:1.31.7-alpine
 
 LABEL maintainer="GameFrame <technical@game-frame.de>"
 
